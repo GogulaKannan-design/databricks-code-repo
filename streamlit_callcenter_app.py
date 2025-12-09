@@ -1,3 +1,5 @@
+print ("hello github is configured")
+
 import streamlit as st
 from project_simple_callcenter_app1.installation_util.installation_cost import CostingClass
 
